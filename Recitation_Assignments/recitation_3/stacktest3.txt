@@ -1,0 +1,14 @@
+pop
+peep
+pop
+push 2
+push 2
+push 2
+pop
+pop
+peek
+push 3
+pop
+pop
+push 1
+peek
